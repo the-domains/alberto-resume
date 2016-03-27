@@ -2,6 +2,7 @@ name: Alberto Resume
 favicon: null
 layout_spectrum: 0.4432459950912744
 typography_spectrum: 0.8050320951733738
+title: Resume
 cta:
   domain: null
   bucket: null
